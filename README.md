@@ -1,15 +1,3 @@
 # ngs-2025
 
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.20. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+* https://colab.research.google.com/drive/1iPLqqWmQqKPnO97eI4FrKpKCAvXt4wIs?usp=sharing#scrollTo=a54e121d-76d4-4d4e-96fd-b2294b43cc89
