@@ -7,5 +7,10 @@
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@astrojs/db": "^0.14.14",
+    "@types/chart.js": "^4.0.1",
+    "chart.js": "^4.4.9"
   }
 }
